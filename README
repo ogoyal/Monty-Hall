@@ -1,0 +1,10 @@
+
+# controller contains business logic. It drives the program
+# helper assists the controller
+# view is simple & in this case used to display a graph
+
+# start the program by running start.py
+
+- need __init__.py in every folder to expose methods
+- global variables
+
