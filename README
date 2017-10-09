@@ -1,10 +1,13 @@
 
-# controller contains business logic. It drives the program
-# helper assists the controller
-# view is simple & in this case used to display a graph
+# Intro to MVC Architecture
 
-# start the program by running start.py
+## Controller contains business logic. It drives the program
+## Helper assists the controller
+## View is simple & in this case used to display a graph
 
-- need __init__.py in every folder to expose methods
-- global variables
+## Start the program by running ` python start.py`
+
+Results:
+
+![Monty Hall](img/graph.png "Monty Hall Example")
 
