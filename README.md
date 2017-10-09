@@ -1,4 +1,3 @@
-
 # Intro to MVC Architecture
 
 ## Controller contains business logic. It drives the program
