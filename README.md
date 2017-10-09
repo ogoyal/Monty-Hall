@@ -7,7 +7,7 @@ Intro to MVC Architecture
 
 * Start the program by running ` python start.py`
 
-Results:
+Monty-Hall Problem Results for 10000 Trials:
 
 ![Monty Hall](images/graph.png)
 
