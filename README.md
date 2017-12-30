@@ -1,4 +1,4 @@
-Intro to MVC Architecture
+Intro to MVC Architecture [![Build Status](https://travis-ci.org/ogoyal/Monty-Hall.svg?branch=master)](https://travis-ci.org/ogoyal/Monty-Hall)
 ===========================
 
 * Controller contains business logic. It drives the program
