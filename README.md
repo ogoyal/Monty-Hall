@@ -11,4 +11,8 @@ Monty-Hall Problem Results for 10000 Trials:
 
 ![Monty Hall](images/graph.png)
 
+Run Unit Tests:
+python -m unittest discover test
+
+
 
