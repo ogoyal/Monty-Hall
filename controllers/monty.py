@@ -41,10 +41,10 @@ def change_choice():
             else:
                 user = 0
 
-	if(mlist[user] == 'C'):
+    if(mlist[user] == 'C'):
             change_choice += 1
 
-	y += [change_choice/float(trial)]
+    y += [change_choice/float(trial)]
 
     return y
 
@@ -55,11 +55,11 @@ def same_choice():
     y = []
     for trial in range(1, trials):
         user = choose()
-        
+
         if(mlist[user] == 'C'):
             same_choice += 1
 
-	y += [same_choice/float(trial)]
+    y += [same_choice/float(trial)]
     return y
 
 
@@ -77,5 +77,3 @@ if __name__ == "__main__":
 
     print("Same Choice: ", same_prob)  		# Converges to 33%
     print("Change Choice: ", change_prob)	# Converges to 66%
-
-
