@@ -41,7 +41,7 @@ def change_choice():
             else:
                 user = 0
 
-    if(mlist[user] == 'C'):
+        if(mlist[user] == 'C'):
             change_choice += 1
 
     y += [change_choice/float(trial)]
