@@ -44,7 +44,7 @@ def change_choice():
         if(mlist[user] == 'C'):
             change_choice += 1
 
-    y += [change_choice/float(trial)]
+        y += [change_choice/float(trial)]
 
     return y
 
@@ -59,7 +59,7 @@ def same_choice():
         if(mlist[user] == 'C'):
             same_choice += 1
 
-    y += [same_choice/float(trial)]
+        y += [same_choice/float(trial)]
     return y
 
 
